@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ravil2.github.io/static/css/main.4be2272f.css",
+    "main.js": "/Ravil2.github.io/static/js/main.618514c7.js",
+    "index.html": "/Ravil2.github.io/index.html",
+    "main.4be2272f.css.map": "/Ravil2.github.io/static/css/main.4be2272f.css.map",
+    "main.618514c7.js.map": "/Ravil2.github.io/static/js/main.618514c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4be2272f.css",
+    "static/js/main.618514c7.js"
+  ]
+}
